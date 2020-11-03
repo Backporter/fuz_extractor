@@ -8,3 +8,7 @@ my own custom version of the fuz extractor, you could in thoery swap out the org
 **Usage Fuz_extractor.exe -e FUZ.fuz**
 
 **Usage Fuz_extractor.exe -c xwm.xwm lip.lip FUZ.fuz**
+
+
+
+[Github Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
