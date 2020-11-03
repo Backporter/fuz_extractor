@@ -11,4 +11,4 @@ my own custom version of the fuz extractor, you could in thoery swap out the org
 
 
 
-[Github Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
